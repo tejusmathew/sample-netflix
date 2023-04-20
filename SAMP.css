@@ -1,0 +1,81 @@
+h1 {
+  position: fixed;
+left: 1250px;
+ top: 25px;
+color:black;
+padding: 00px;
+  margin: 00px;
+font-family:arial;
+font-size:25px;
+
+}
+.netflix{
+ position: fixed;
+  top: -20px;
+left: 00px;
+padding: 00px;
+width: 100%;
+height:100px;
+border-bottom-style:solid;
+z-index: 10;
+
+}
+h3{
+ position:relative;
+top: 120px;
+left: 50px;
+padding: 00px;
+margin: 00px;
+
+max-height: 150px;
+}
+.empty{
+position: fixed;
+float: right;
+  top: 00px;
+left: 00px;
+}
+
+
+th, td {
+position:relative;
+top: 160px;
+left: 200px;
+padding: 00px;
+margin: 00px;
+padding: 8px; 
+text-align: center;
+
+border-BOTTOM: 2px solid red;
+font-size: 45px;
+
+}
+
+
+.choose{
+position:relative;
+top: 140px;
+left: 50px;
+font-family: arial ,serif;
+font-size: 55px;
+padding: 00px;
+margin: 00px;
+
+}
+.down
+{
+position:relative;
+top: 160px;
+left: 50px;
+font-family: arial ,serif;
+font-size: 25px;
+padding: 00px;
+margin: 00px;
+}
+
+.empty{
+position: absolute;
+ top: -150px;
+left: -800px;
+}
+
